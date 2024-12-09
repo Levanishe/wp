@@ -1,0 +1,23 @@
+/**
+* Theme Name:
+custom
+* Description:
+Короткое описание темы
+*
+* Author: author
+* Author URI: https:/telegram.com/USER
+* Tags: black, brown, orange
+*
+* Version: 1.0
+*/
+body {
+  background: #e1c847;
+  max-width: 700px;
+  margin: 2em auto;
+}
+
+header,
+.footer {
+  margin: 2em auto;
+  text-align: center;
+}
